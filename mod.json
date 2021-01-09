@@ -1,0 +1,11 @@
+{
+	"Name": "Carrier Assault",
+	"Authors": [ "Dunem" ],
+	"Description": "Naval Strike kinda thing",
+	"Tags": ["carrierassault"],
+	"Version": "1.1",
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": "^1.0.8"
+	}
+}
