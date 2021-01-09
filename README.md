@@ -2,7 +2,7 @@
 Carrier Assault game mode for Venice Unleashed
 
 
-SERVER SETUP PLEASE READ - IMPORTANT
+**SERVER SETUP PLEASE READ - IMPORTANT**
 
 Requirements:
 
