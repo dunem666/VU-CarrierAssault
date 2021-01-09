@@ -1,6 +1,11 @@
 # VU-CarrierAssault
 Carrier Assault game mode for Venice Unleashed
 
+**Credits to: **
+dunem
+MajorVictory87
+Bree_Arnold
+
 
 **SERVER SETUP PLEASE READ - IMPORTANT**
 
