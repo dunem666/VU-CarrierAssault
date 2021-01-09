@@ -6,6 +6,8 @@ Carrier Assault game mode for Venice Unleashed
 
 Requirements:
 
+**Map must be set to  MP_017 ConquestLarge0**
+
 **CustomLevel AND MapLoader Mods**
 (To load the custom map included)
 - Install the CustomLevel Mod to your server and then copy and paste the testpreset.lua into the custom level folder
